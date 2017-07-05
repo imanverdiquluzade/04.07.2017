@@ -1,0 +1,4 @@
+Github Nedir?
+
+Github- proqramlasdirma ile mesgul olan insanlar ücün yaradilmis vebsaytdir.Burada yazidigimiz kodlari paylasa bilerik.
+Sonradan koda düzelis ede bilerik.Kodlarimizi burda yadda saxlaya bilerik,bir növ cloud adlanir.
